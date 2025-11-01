@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 10/145 problems  
+**Solved:** 11/145 problems  
 **Last Updated:** Nov 1, 2025
 
 ## Solutions
@@ -18,4 +18,4 @@
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/8-move-zeroes.java?raw=true) | Oct 25, 2025 | 2 Pointers |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/10-missing-number.java?raw=true) | Oct 25, 2025 | Formula or XOR |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/9-group-anagrams.js?raw=true) | Oct 26, 2025 | Using leader key and sorting, then without sorting using buckets |
-| 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/11-top-k-frequent-elements.js?raw=true) | Nov 1, 2025 | Map, and Flipped map |
+| 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/11-top-k-frequent-elements.js?raw=true) | Oct 26, 2025 | Map, and Flipped map |
