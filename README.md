@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 13/145 problems  
+**Solved:** 14/145 problems  
 **Last Updated:** Nov 1, 2025
 
 ## Solutions
@@ -22,3 +22,4 @@
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/12-sort-colors.js?raw=true) | Nov 1, 2025 | 3 Pointers |
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/13-spiral-matrix.js?raw=true) | Nov 1, 2025 | 4 Pointer at the corners |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/14-majority-element.js?raw=true) | Nov 1, 2025 | Voting Algorithm, Seat Fighting |
+| 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/15-majority-element-ii.js?raw=true) | Nov 1, 2025 | Remember One Opponent fights with both |
