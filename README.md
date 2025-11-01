@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 11/145 problems  
+**Solved:** 12/145 problems  
 **Last Updated:** Nov 1, 2025
 
 ## Solutions
@@ -20,3 +20,4 @@
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/9-group-anagrams.js?raw=true) | Oct 26, 2025 | Using leader key and sorting, then without sorting using buckets |
 | 347 | Top K Frequent Elements | Medium | [Link](https://leetcode.com/problems/top-k-frequent-elements/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/11-top-k-frequent-elements.js?raw=true) | Oct 26, 2025 | Map, and Flipped map |
 | 75 | Sort Colors | Easy | [Link](https://leetcode.com/problems/sort-colors/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/12-sort-colors.js?raw=true) | Nov 1, 2025 | 3 Pointers |
+| 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/13-spiral-matrix.js?raw=true) | Nov 1, 2025 | 4 Pointer at the corners |
