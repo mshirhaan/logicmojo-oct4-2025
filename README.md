@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 5/145 problems  
+**Solved:** 6/145 problems  
 **Last Updated:** Nov 1, 2025
 
 ## Solutions
@@ -13,4 +13,4 @@
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/3-remove-duplicates-from-sorted-array.js?raw=true) | Oct 19, 2025 | 2 Pointer |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/4-product-of-array-except-self.java?raw=true) | Oct 19, 2025 | Left & Right Prefix |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/5-container-with-most-water.java?raw=true) | Oct 19, 2025 | 2 Pointer |
-| 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/6-trapping-rain-water.js?raw=true) | Nov 1, 2025 | Left Right Prefix Array |
+| 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/6-trapping-rain-water.js?raw=true) | Oct 25, 2025 | Left Right Prefix Array |
