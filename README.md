@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 0/145 problems  
+**Solved:** 2/145 problems  
 **Last Updated:** Nov 1, 2025
 
 ## Solutions
@@ -10,3 +10,4 @@
 |---|---------|-----------|----------|----------|-------------|-------|
 | 1 | Two Sum | Easy | [Link](https://leetcode.com/problems/two-sum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/1-two-sum.java?raw=true) | Oct 12, 2025 | Hashmap |
 | 167 | Two Sum II - Input Array Is Sorted | Medium | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/2-two-sum-ii-input-array-is-sorted.js?raw=true) | Oct 12, 2025 | 2 Pointers |
+| 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/3-remove-duplicates-from-sorted-array.js?raw=true) | Nov 1, 2025 | 2 Pointer |
