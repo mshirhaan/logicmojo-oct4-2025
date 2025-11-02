@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 15/145 problems  
+**Solved:** 16/145 problems  
 **Last Updated:** Nov 2, 2025
 
 ## Solutions
@@ -24,3 +24,4 @@
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/14-majority-element.js?raw=true) | Nov 1, 2025 | Voting Algorithm, Seat Fighting |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/15-majority-element-ii.js?raw=true) | Nov 1, 2025 | Remember One Opponent fights with both |
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/16-longest-consecutive-sequence.js?raw=true) | Nov 2, 2025 | Count only for the starting number of sequence |
+| 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Nov 2, 2025 | - |
