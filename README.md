@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 18/145 problems  
+**Solved:** 19/145 problems  
 **Last Updated:** Nov 2, 2025
 
 ## Solutions
@@ -26,3 +26,4 @@
 | 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/16-longest-consecutive-sequence.js?raw=true) | Nov 2, 2025 | Count only for the starting number of sequence |
 | 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Nov 2, 2025 | - |
 | 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/19-maximum-subarray.js?raw=true) | Nov 2, 2025 | - |
+| 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/27-sliding-window-maximum.js?raw=true) | Nov 2, 2025 | - |
