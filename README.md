@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 19/145 problems  
-**Last Updated:** Nov 2, 2025
+**Solved:** 15/145 problems  
+**Last Updated:** Nov 8, 2025
 
 ## Solutions
 
@@ -23,7 +23,4 @@
 | 54 | Spiral Matrix | Medium | [Link](https://leetcode.com/problems/spiral-matrix/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/13-spiral-matrix.js?raw=true) | Nov 1, 2025 | 4 Pointer at the corners |
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/14-majority-element.js?raw=true) | Nov 1, 2025 | Voting Algorithm, Seat Fighting |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/15-majority-element-ii.js?raw=true) | Nov 1, 2025 | Remember One Opponent fights with both |
-| 128 | Longest Consecutive Sequence | Medium | [Link](https://leetcode.com/problems/longest-consecutive-sequence/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/16-longest-consecutive-sequence.js?raw=true) | Nov 2, 2025 | Count only for the starting number of sequence |
-| 14 | Longest Common Prefix | Easy | [Link](https://leetcode.com/problems/longest-common-prefix/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/17-longest-common-prefix.js?raw=true) | Nov 2, 2025 | - |
-| 53 | Maximum Subarray | Medium | [Link](https://leetcode.com/problems/maximum-subarray/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/19-maximum-subarray.js?raw=true) | Nov 2, 2025 | - |
-| 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/27-sliding-window-maximum.js?raw=true) | Nov 2, 2025 | - |
+| 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/27-sliding-window-maximum.js?raw=true) | Nov 8, 2025 | - |
