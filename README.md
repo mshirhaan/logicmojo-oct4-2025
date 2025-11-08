@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 16/145 problems  
+**Solved:** 17/145 problems  
 **Last Updated:** Nov 8, 2025
 
 ## Solutions
@@ -26,3 +26,4 @@
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/27-sliding-window-maximum.js?raw=true) | Nov 2, 2025 | - |
 | 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Nov 2, 2025 | - |
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/33-implementation.java?raw=true) | Nov 8, 2025 | - |
+| 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/35-reverse-linked-list.js?raw=true) | Nov 8, 2025 | - |
