@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 15/145 problems  
+**Solved:** 16/145 problems  
 **Last Updated:** Nov 8, 2025
 
 ## Solutions
@@ -24,3 +24,4 @@
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/14-majority-element.js?raw=true) | Nov 1, 2025 | Voting Algorithm, Seat Fighting |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/15-majority-element-ii.js?raw=true) | Nov 1, 2025 | Remember One Opponent fights with both |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/27-sliding-window-maximum.js?raw=true) | Nov 8, 2025 | - |
+| 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Nov 8, 2025 | - |
