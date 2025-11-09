@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 18/145 problems  
-**Last Updated:** Nov 8, 2025
+**Solved:** 19/145 problems  
+**Last Updated:** Nov 9, 2025
 
 ## Solutions
 
@@ -24,7 +24,6 @@
 | 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/14-majority-element.js?raw=true) | Nov 1, 2025 | Voting Algorithm, Seat Fighting |
 | 229 | Majority Element II | Medium | [Link](https://leetcode.com/problems/majority-element-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/15-majority-element-ii.js?raw=true) | Nov 1, 2025 | Remember One Opponent fights with both |
 | 239 | Sliding Window Maximum | Hard | [Link](https://leetcode.com/problems/sliding-window-maximum/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/27-sliding-window-maximum.js?raw=true) | Nov 2, 2025 | - |
-| 76 | Minimum Window Substring | Hard | [Link](https://leetcode.com/problems/minimum-window-substring/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/28-minimum-window-substring.js?raw=true) | Nov 2, 2025 | - |
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/33-implementation.java?raw=true) | Nov 8, 2025 | - |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/35-reverse-linked-list.js?raw=true) | Nov 8, 2025 | - |
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/36-merge-two-sorted-lists.py?raw=true) | Nov 8, 2025 | - |
