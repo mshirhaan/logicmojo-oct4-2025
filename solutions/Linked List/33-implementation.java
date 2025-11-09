@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     LinkedList ll = new LinkedList();
-
+    ll.addFirst(0);
     ll.addLast(1);
     ll.addLast(2);
     ll.addLast(3);
@@ -34,6 +34,7 @@ class LinkedList {
     Node node = new Node(val);
     node.next = head;
     head = node;
+    tail = node;
     size++;
   }
 
@@ -126,6 +127,7 @@ class LinkedList {
     Node node = curr.next;
     curr.next = curr.next.next;
     node.next = null;
+    size--;
     return node;
   }
 
