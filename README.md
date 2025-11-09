@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 20/145 problems  
+**Solved:** 21/145 problems  
 **Last Updated:** Nov 9, 2025
 
 ## Solutions
@@ -29,3 +29,4 @@
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/36-merge-two-sorted-lists.py?raw=true) | Nov 8, 2025 | - |
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Nov 9, 2025 | - |
 | 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/37-reorder-list.js?raw=true) | Nov 9, 2025 | - |
+| 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/38-linked-list-cycle.py?raw=true) | Nov 9, 2025 | - |
