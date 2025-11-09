@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 21/145 problems  
+**Solved:** 22/145 problems  
 **Last Updated:** Nov 9, 2025
 
 ## Solutions
@@ -30,3 +30,4 @@
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Nov 9, 2025 | - |
 | 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/37-reorder-list.js?raw=true) | Nov 9, 2025 | - |
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/38-linked-list-cycle.py?raw=true) | Nov 9, 2025 | - |
+| 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.py?raw=true) | Nov 9, 2025 | - |
