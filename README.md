@@ -27,3 +27,4 @@
 | 0 | Implementation | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/33-implementation.java?raw=true) | Nov 8, 2025 | - |
 | 206 | Reverse Linked List | Easy | [Link](https://leetcode.com/problems/reverse-linked-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/35-reverse-linked-list.js?raw=true) | Nov 8, 2025 | - |
 | 21 | Merge Two Sorted Lists | Easy | [Link](https://leetcode.com/problems/merge-two-sorted-lists/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/36-merge-two-sorted-lists.py?raw=true) | Nov 8, 2025 | - |
+| 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Nov 9, 2025 | - |
