@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 23/145 problems  
-**Last Updated:** Nov 9, 2025
+**Solved:** 24/145 problems  
+**Last Updated:** Nov 15, 2025
 
 ## Solutions
 
@@ -32,3 +32,4 @@
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/38-linked-list-cycle.py?raw=true) | Nov 9, 2025 | - |
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.py?raw=true) | Nov 9, 2025 | - |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/39-linked-list-cycle-ii.js?raw=true) | Nov 9, 2025 | Floyds tortoise |
+| 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/41-lru-cache.java?raw=true) | Nov 15, 2025 | Hashmap with Doubly Linked List |
