@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 25/145 problems  
+**Solved:** 26/145 problems  
 **Last Updated:** Nov 16, 2025
 
 ## Solutions
@@ -36,3 +36,4 @@
 | 460 | LFU Cache | Hard | [Link](https://leetcode.com/problems/lfu-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/44-lfu-cache.js?raw=true) | Nov 16, 2025 | frequency map
 value map
 with doubly linked list |
+| 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/40-find-the-duplicate-number.js?raw=true) | Nov 16, 2025 | LinkedList Start of Cycle |
