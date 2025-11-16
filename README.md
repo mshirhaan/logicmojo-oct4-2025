@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 26/145 problems  
+**Solved:** 27/145 problems  
 **Last Updated:** Nov 16, 2025
 
 ## Solutions
@@ -37,3 +37,4 @@
 value map
 with doubly linked list |
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/40-find-the-duplicate-number.js?raw=true) | Nov 16, 2025 | LinkedList Start of Cycle |
+| 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Nov 16, 2025 | reset the first to finish to other starting point |
