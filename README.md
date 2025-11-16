@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 24/145 problems  
-**Last Updated:** Nov 15, 2025
+**Solved:** 25/145 problems  
+**Last Updated:** Nov 16, 2025
 
 ## Solutions
 
@@ -33,3 +33,6 @@
 | 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.py?raw=true) | Nov 9, 2025 | - |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/39-linked-list-cycle-ii.js?raw=true) | Nov 9, 2025 | Floyds tortoise |
 | 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/41-lru-cache.java?raw=true) | Nov 15, 2025 | Hashmap with Doubly Linked List |
+| 460 | LFU Cache | Hard | [Link](https://leetcode.com/problems/lfu-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/44-lfu-cache.js?raw=true) | Nov 16, 2025 | frequency map
+value map
+with doubly linked list |
