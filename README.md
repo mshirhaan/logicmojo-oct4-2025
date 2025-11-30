@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 30/145 problems  
-**Last Updated:** Nov 29, 2025
+**Solved:** 31/145 problems  
+**Last Updated:** Nov 30, 2025
 
 ## Solutions
 
@@ -41,3 +41,4 @@ with doubly linked list |
 | 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/45-design-browser-history.js?raw=true) | Nov 16, 2025 | - |
 | 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/47-subsets.js) | Nov 22, 2025 | - |
 | 0 | Subsets Sum No Duplicate Bags in Trolly | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/48-subsets-sum-no-duplicate-bags-in-trolly.js?raw=true) | Nov 23, 2025 | - |
+| 51 | N-Queens | Hard | [Link](https://leetcode.com/problems/n-queens/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/53-n-queens.js?raw=true) | Nov 30, 2025 | - |
