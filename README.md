@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 36/145 problems  
-**Last Updated:** Nov 30, 2025
+**Solved:** 37/145 problems  
+**Last Updated:** Dec 6, 2025
 
 ## Solutions
 
@@ -47,3 +47,4 @@ with doubly linked list |
 | 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/56-climbing-stairs.js?raw=true) | Nov 30, 2025 | - |
 | 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/57-unique-paths.js?raw=true) | Nov 30, 2025 | - |
 | 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/58-generate-parentheses.js?raw=true) | Nov 30, 2025 | - |
+| 0 | BST IMP(DFS,BFS, Remove, Add) | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/60-bst-imp-dfs-bfs-remove-add.js?raw=true) | Dec 6, 2025 | - |
