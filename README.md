@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 39/145 problems  
+**Solved:** 41/145 problems  
 **Last Updated:** Dec 7, 2025
 
 ## Solutions
@@ -50,3 +50,4 @@ with doubly linked list |
 | 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/63-delete-node-in-a-bst.js?raw=true) | Dec 6, 2025 | - |
 | 0 | BST IMP(DFS,BFS, Remove, Add) | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/60-bst-imp-dfs-bfs-remove-add.js?raw=true) | Dec 6, 2025 | - |
 | 102 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/61-binary-tree-level-order-traversal.js?raw=true) | Dec 7, 2025 | - |
+| 226 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/64-invert-binary-tree.js?raw=true) | Dec 7, 2025 | - |
