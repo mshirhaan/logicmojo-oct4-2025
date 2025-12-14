@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 46/145 problems  
+**Solved:** 47/145 problems  
 **Last Updated:** Dec 14, 2025
 
 ## Solutions
@@ -56,3 +56,4 @@ with doubly linked list |
 | 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/67-same-tree.js?raw=true) | Dec 14, 2025 | - |
 | 572 | Subtree of Another Tree | Easy | [Link](https://leetcode.com/problems/subtree-of-another-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/68-subtree-of-another-tree.js?raw=true) | Dec 14, 2025 | - |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/69-lowest-common-ancestor-of-a-binary-search-tree.js?raw=true) | Dec 14, 2025 | - |
+| 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/70-lowest-common-ancestor-of-a-binary-tree.js?raw=true) | Dec 14, 2025 | - |
