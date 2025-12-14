@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 43/145 problems  
+**Solved:** 44/145 problems  
 **Last Updated:** Dec 14, 2025
 
 ## Solutions
@@ -53,3 +53,4 @@ with doubly linked list |
 | 226 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/64-invert-binary-tree.js?raw=true) | Dec 7, 2025 | - |
 | 104 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/65-maximum-depth-of-binary-tree.js?raw=true) | Dec 7, 2025 | - |
 | 543 | Diameter of Binary Tree | Easy | [Link](https://leetcode.com/problems/diameter-of-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/66-diameter-of-binary-tree.js?raw=true) | Dec 14, 2025 | - |
+| 100 | Same Tree | Easy | [Link](https://leetcode.com/problems/same-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/67-same-tree.js?raw=true) | Dec 14, 2025 | - |
