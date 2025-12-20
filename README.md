@@ -2,7 +2,7 @@
 
 ## Progress
 **Solved:** 49/145 problems  
-**Last Updated:** Dec 14, 2025
+**Last Updated:** Dec 20, 2025
 
 ## Solutions
 
@@ -58,3 +58,4 @@ with doubly linked list |
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/69-lowest-common-ancestor-of-a-binary-search-tree.js?raw=true) | Dec 14, 2025 | - |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/70-lowest-common-ancestor-of-a-binary-tree.js?raw=true) | Dec 14, 2025 | - |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/71-binary-tree-zigzag-level-order-traversal.js?raw=true) | Dec 14, 2025 | - |
+| 0 | Top View of BTREE | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/72-top-view-of-btree.js?raw=true) | Dec 20, 2025 | - |
