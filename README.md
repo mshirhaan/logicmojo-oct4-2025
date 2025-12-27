@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 51/145 problems  
+**Solved:** 52/145 problems  
 **Last Updated:** Dec 27, 2025
 
 ## Solutions
@@ -60,3 +60,4 @@
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/71-binary-tree-zigzag-level-order-traversal.js?raw=true) | Dec 14, 2025 | - |
 | 0 | Top View of BTREE | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/72-top-view-of-btree.js?raw=true) | Dec 20, 2025 | - |
 | 987 | Vertical Order Traversal of a Binary Tree | Hard | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Code](https://github.com/mshirhaan/logicmojo-oct4-2025/commit/95423fd0a9f01e9ca7e94e004916191105dc362f) | Dec 20, 2025 | - |
+| 297 | Serialize and Deserialize Binary Tree | Hard | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/75-serialize-and-deserialize-binary-tree.js?raw=true) | Dec 27, 2025 | - |
