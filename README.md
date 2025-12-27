@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 49/145 problems  
-**Last Updated:** Dec 20, 2025
+**Solved:** 51/145 problems  
+**Last Updated:** Dec 27, 2025
 
 ## Solutions
 
@@ -14,7 +14,7 @@
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/4-product-of-array-except-self.java?raw=true) | Oct 19, 2025 | Left & Right Prefix |
 | 11 | Container With Most Water | Medium | [Link](https://leetcode.com/problems/container-with-most-water/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/5-container-with-most-water.java?raw=true) | Oct 19, 2025 | 2 Pointer |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/6-trapping-rain-water.js?raw=true) | Oct 25, 2025 | Left Right Prefix Array |
-| 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/7-rotate-array.js?raw=true) | Oct 25, 2025 | Reverse 3 times  |
+| 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/7-rotate-array.js?raw=true) | Oct 25, 2025 | Reverse 3 times |
 | 283 | Move Zeroes | Easy | [Link](https://leetcode.com/problems/move-zeroes/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/8-move-zeroes.java?raw=true) | Oct 25, 2025 | 2 Pointers |
 | 268 | Missing Number | Easy | [Link](https://leetcode.com/problems/missing-number/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/10-missing-number.java?raw=true) | Oct 25, 2025 | Formula or XOR |
 | 49 | Group Anagrams | Medium | [Link](https://leetcode.com/problems/group-anagrams/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Array/9-group-anagrams.js?raw=true) | Oct 26, 2025 | Using leader key and sorting, then without sorting using buckets |
@@ -30,14 +30,12 @@
 | 0 | Doubly Linked List | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/34-doubly-linked-list.java?raw=true) | Nov 9, 2025 | - |
 | 143 | Reorder List | Medium | [Link](https://leetcode.com/problems/reorder-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/37-reorder-list.js?raw=true) | Nov 9, 2025 | - |
 | 141 | Linked List Cycle | Easy | [Link](https://leetcode.com/problems/linked-list-cycle/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/38-linked-list-cycle.py?raw=true) | Nov 9, 2025 | - |
-| 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.py?raw=true) | Nov 9, 2025 | - |
 | 142 | Linked List Cycle II | Medium | [Link](https://leetcode.com/problems/linked-list-cycle-ii/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/39-linked-list-cycle-ii.js?raw=true) | Nov 9, 2025 | Floyds tortoise |
+| 83 | Remove Duplicates from Sorted List | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/42-remove-duplicates-from-sorted-list.py?raw=true) | Nov 9, 2025 | - |
 | 146 | LRU Cache | Medium | [Link](https://leetcode.com/problems/lru-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/41-lru-cache.java?raw=true) | Nov 15, 2025 | Hashmap with Doubly Linked List |
-| 460 | LFU Cache | Hard | [Link](https://leetcode.com/problems/lfu-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/44-lfu-cache.js?raw=true) | Nov 16, 2025 | frequency map
-value map
-with doubly linked list |
 | 287 | Find the Duplicate Number | Medium | [Link](https://leetcode.com/problems/find-the-duplicate-number/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/40-find-the-duplicate-number.js?raw=true) | Nov 16, 2025 | LinkedList Start of Cycle |
 | 160 | Intersection of Two Linked Lists | Easy | [Link](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/43-intersection-of-two-linked-lists.js?raw=true) | Nov 16, 2025 | reset the first to finish to other starting point |
+| 460 | LFU Cache | Hard | [Link](https://leetcode.com/problems/lfu-cache/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/44-lfu-cache.js?raw=true) | Nov 16, 2025 | frequency map |
 | 1472 | Design Browser History | Medium | [Link](https://leetcode.com/problems/design-browser-history/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Linked%20List/45-design-browser-history.js?raw=true) | Nov 16, 2025 | - |
 | 78 | Subsets | Medium | [Link](https://leetcode.com/problems/subsets/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/47-subsets.js) | Nov 22, 2025 | - |
 | 0 | Subsets Sum No Duplicate Bags in Trolly | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/48-subsets-sum-no-duplicate-bags-in-trolly.js?raw=true) | Nov 23, 2025 | - |
@@ -47,8 +45,10 @@ with doubly linked list |
 | 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/56-climbing-stairs.js?raw=true) | Nov 30, 2025 | - |
 | 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/57-unique-paths.js?raw=true) | Nov 30, 2025 | - |
 | 22 | Generate Parentheses | Medium | [Link](https://leetcode.com/problems/generate-parentheses/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/58-generate-parentheses.js?raw=true) | Nov 30, 2025 | - |
-| 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/63-delete-node-in-a-bst.js?raw=true) | Dec 6, 2025 | - |
+| 70 | Climbing Stairs | Easy | [Link](https://leetcode.com/problems/climbing-stairs/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/56-climbing-stairs.js?raw=true) | Nov 30, 2025 | - |
+| 62 | Unique Paths | Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Recursion/57-unique-paths.js?raw=true) | Nov 30, 2025 | - |
 | 0 | BST IMP(DFS,BFS, Remove, Add) | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/60-bst-imp-dfs-bfs-remove-add.js?raw=true) | Dec 6, 2025 | - |
+| 450 | Delete Node in a BST | Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/63-delete-node-in-a-bst.js?raw=true) | Dec 6, 2025 | - |
 | 102 | Binary Tree Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/61-binary-tree-level-order-traversal.js?raw=true) | Dec 7, 2025 | - |
 | 226 | Invert Binary Tree | Easy | [Link](https://leetcode.com/problems/invert-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/64-invert-binary-tree.js?raw=true) | Dec 7, 2025 | - |
 | 104 | Maximum Depth of Binary Tree | Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/65-maximum-depth-of-binary-tree.js?raw=true) | Dec 7, 2025 | - |
@@ -59,3 +59,4 @@ with doubly linked list |
 | 236 | Lowest Common Ancestor of a Binary Tree | Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/70-lowest-common-ancestor-of-a-binary-tree.js?raw=true) | Dec 14, 2025 | - |
 | 103 | Binary Tree Zigzag Level Order Traversal | Medium | [Link](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/71-binary-tree-zigzag-level-order-traversal.js?raw=true) | Dec 14, 2025 | - |
 | 0 | Top View of BTREE | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/72-top-view-of-btree.js?raw=true) | Dec 20, 2025 | - |
+| 987 | Vertical Order Traversal of a Binary Tree | Hard | [Link](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Code](https://github.com/mshirhaan/logicmojo-oct4-2025/commit/95423fd0a9f01e9ca7e94e004916191105dc362f) | Dec 20, 2025 | - |
