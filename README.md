@@ -1,7 +1,7 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 54/145 problems  
+**Solved:** 55/145 problems  
 **Last Updated:** Jan 3, 2026
 
 ## Solutions
@@ -63,3 +63,4 @@
 | 297 | Serialize and Deserialize Binary Tree | Hard | [Link](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Trees/75-serialize-and-deserialize-binary-tree.js?raw=true) | Dec 20, 2025 | - |
 | 0 | Implementation of Heap | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Heap/76-implementation-of-heap.js?raw=true) | Dec 28, 2025 | - |
 | 0 | Graph Facebook Implementation | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Graphs/77-graph-facebook-implementation.js?raw=true) | Jan 3, 2026 | - |
+| 0 | Graph Traversal | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Graphs/78-graph-traversal.js?raw=true) | Jan 3, 2026 | - |
