@@ -67,4 +67,18 @@ function bfs(node) {
   console.log(ans)
 }
 
-bfs(c)
+function dfs(node) {
+  helper(node, new Set())
+
+  function helper(node, visited) {
+      visited.add(node.val)
+      console.log(node.val)
+      for(let neighborNode of node.neighbors.keys()){
+        if(visited.has(neighborNode.val)) continue
+        helper(neighborNode, visited);
+        visited.add(neighborNode)
+      }
+  }
+}
+
+dfs(c)
