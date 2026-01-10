@@ -1,8 +1,8 @@
 # DSA Problems Solutions
 
 ## Progress
-**Solved:** 55/145 problems  
-**Last Updated:** Jan 3, 2026
+**Solved:** 56/145 problems  
+**Last Updated:** Jan 10, 2026
 
 ## Solutions
 
@@ -64,3 +64,4 @@
 | 0 | Implementation of Heap | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Heap/76-implementation-of-heap.js?raw=true) | Dec 28, 2025 | - |
 | 0 | Graph Facebook Implementation | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Graphs/77-graph-facebook-implementation.js?raw=true) | Jan 3, 2026 | - |
 | 0 | Graph Traversal | Medium | - | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Graphs/78-graph-traversal.js?raw=true) | Jan 3, 2026 | - |
+| 994 | Rotting Oranges | Medium | [Link](https://leetcode.com/problems/rotting-oranges/) | [Code](https://raw.githubusercontent.com/mshirhaan/logicmojo-oct4-2025/main/solutions/Graphs/80-rotting-oranges.js?raw=true) | Jan 10, 2026 | - |
