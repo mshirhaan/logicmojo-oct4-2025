@@ -1,61 +1,22 @@
 class Solution {
-    knapsack(W, val, wt) {
+    fractionalKnapsack(val, wt, capacity) {
         // code here
-        let memo = new Array(W) 
+        let items = []
         
-        for(let i = 0; i<=W;i++) {
-            memo[i] = new Array(val.length)
+        for(let i = 0; i<val.length; i++) {
+            items.push({val:val[i], wt: wt[i]})
         }
-        return helper(W, 0, memo)
+        items.sort((a,b)=>(b.val/b.wt) - (a.val/a.wt))
         
+        let profit = 0
         
-        function helper(W, i, memo) {
-            if(i == val.length || W == 0) {
-                return 0
-            }
+        for(let item of items) {
+            let howMuchCanBeRobbed = Math.min(item.wt, capacity)
             
-            if( memo[W][i] != undefined) {
-                return  memo[W][i]
-            }
+            profit+= (item.val/item.wt) * howMuchCanBeRobbed
             
-            let rob = 0
-            if(W>=wt[i]) {
-                rob = val[i] + helper(W-wt[i], i+1,memo)
-            }
-            let dontRob = helper(W, i+1, memo)
-            
-            memo[W][i] = Math.max(rob, dontRob)
-            return  memo[W][i]
+            capacity-= howMuchCanBeRobbed 
         }
-    }
-}
-
-
-class Solution {
-    knapsack(W, val, wt) {
-        let table = new Array(val.length) 
-        for(let i = 0;i<table.length; i++) {
-            table[i] = new Array(W+1)
-        }
-        
-        for(let i = 0;i<table.length; i++) {
-            table[i][0] = 0   
-        }
-        
-        for(let j = 1; j<=W; j++) {
-            table[val.length-1][j] = j>=wt[val.length-1] ? val[val.length-1]:0
-        }
-        
-        for(let i = val.length-2; i>=0; i--) {
-            for(let j = 1; j<=W; j++) {
-                let rob = 0;
-                if(j>=wt[i]) { 
-                    rob = val[i] + table[i+1][j-wt[i]] 
-                }
-                let dontRob = table[i+1][j] 
-                table[i][j] = Math.max(rob, dontRob)
-            }
-        }
-        return table[0][W];
+        return profit
     }
 }
